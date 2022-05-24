@@ -29,4 +29,4 @@ If you have any problem when using our robot after checking the tutorial, please
 +55 1143040786
 
 ### Technical support email: 
-support@yahboom.com
+contato@solistecnologia.com.br
