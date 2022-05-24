@@ -3,10 +3,11 @@ TesteGitHub_02
 
 Commit GitHub
 
-# Raspberry Pi 4WD Car
+# Solis Robot - SoBot
 ![](https://github.com/ViniciusSolisTecnologia/TesteGitHub2/blob/master/SoBotSingle.png)
-# Introduction
-Yahboom Raspberry Pi 4WD Smart Robot is specially designed for educators, students, and Raspberry Pi enthusiasts. Most of the components are connected with screw, copper pillar and anti-reverse socket, which is the same as our other smart robots. The difference for our 4WD robot is that we use the latest Raspberry Pi 4B board as the core controller and HD camera with two degrees of freedom. Through the 5G WIFI network of Raspberry Pi, the real-time transmission of HD video can be realized. Coupled with the high-quality Bluetooth 4.0 module, so we can control car by Android/iOS mobile APP. In addition, we have created a series of AI visual gameplay based on OpenCV, such as face detection, color tracking, gesture recognition, object detection, etc. Users can not only learn about the robot car with our robot kit but study the Raspberry Pi 4B board included in this product separately. We can match it with a mouse and a keyboard to form a microcomputer, plus various sensor modules and communication modules so that you can create more possibilities.
+# Introduction - Simple Route
+Programming example for the SoBot to move a simple route.
+First the Raspberry needs to connect to the control board before starting to send commands. Then the sequence of commands is sent to turn on the red led strip, enable the motors and movement commands to complete the circuit. 
 # Features
 * This robot kit is easy to assemble and features aluminum alloy chassis, powerful four-drive motors, metal motor mount, and High-quality battery.
 * BST-4WD multi-functional expansion board is equipped with interfaces of various sensors and communication modules, and it is compatible with four core controllers: Arduino UNO, 51 controllers, STM32 and Raspberry Pi.
@@ -17,17 +18,15 @@ Yahboom Raspberry Pi 4WD Smart Robot is specially designed for educators, studen
 * This robot and Camera platform can be controlled by APP remote control by Android mobile. And the Raspberry Pi comes with a wireless network for real-time transmission of  HD video.
 
 # Required Best Buy Links
-[By on Yahboom website](https://category.yahboom.net/collections/rp-smart-robot/products/4wdrobot)
+[By on SolisTecnologia website](https://solistecnologia.com.br/produtos/robotsingle)
 
 # Please Contact Us
 If you have any problem when using our robot after checking the tutorial, please contact us.
 
-### Facebook: 
-https://www.facebook.com/yahboomcar/ 
-  
-https://www.facebook.com/yahboomtech
-### WhatsApp:
-+86 18682378128
+### REDE-SOCIAL: 
+
+### Phone:
++55 1143040786
 
 ### Technical support email: 
 support@yahboom.com
