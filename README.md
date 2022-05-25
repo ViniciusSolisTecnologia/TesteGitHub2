@@ -1,12 +1,9 @@
-# TesteGitHub2
-TesteGitHub_02
-
-Commit GitHub
-
 # Solis Robot - SoBot
 ![](https://github.com/ViniciusSolisTecnologia/TesteGitHub2/blob/master/SoBotSingle.png)
-# Introduction - Simple Route
+# Introduction
+## Basic Control - Simple Route
 Programming example for the SoBot to move a simple route.
+
 First the Raspberry needs to connect to the control board before starting to send commands. Then the sequence of commands is sent to turn on the red led strip, enable the motors and movement commands to complete the circuit. 
 # Features
 * This robot kit is easy to assemble and features aluminum alloy chassis, powerful four-drive motors, metal motor mount, and High-quality battery.
@@ -22,8 +19,6 @@ First the Raspberry needs to connect to the control board before starting to sen
 
 # Please Contact Us
 If you have any problem when using our robot after checking the tutorial, please contact us.
-
-### REDE-SOCIAL: 
 
 ### Phone:
 +55 1143040786
